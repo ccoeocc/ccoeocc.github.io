@@ -1,0 +1,11 @@
+.one{
+			text-decoration: none;
+			background-color:black;
+			color:white;
+			font-size:2em;
+			font-family:cursive;
+		}
+        .one:hover{
+        	background-color:white;
+        	color:blue;
+        }
